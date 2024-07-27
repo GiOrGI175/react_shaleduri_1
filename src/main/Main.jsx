@@ -59,8 +59,8 @@ const Main = () => {
 
   return (
     <div>
-      <h2>Pet Care: {status}</h2>
-      <p>Status:</p>
+      <h2>Pet Care:</h2>
+      <p>Status: {status}</p>
       <p>Pet need: {need}</p>
       <p>Food Level: {foodlvl}%</p>
       <p>Play Level: {playlvl}%</p>
